@@ -1001,6 +1001,33 @@
                     </mediaobject>
                 </figure>                   
             </section>
+	</chapter> 
+	     <chapter>
+            <info>
+                <title>Működés</title>
+                <keywordset>
+                    <keyword></keyword>
+                </keywordset>
+            </info>
+            <para>
+                Működés
+            </para> 
+	    <section>
+                <title>Működés</title>
+                <para>
+                </para>
+                <figure>
+                    <title>Samu működése</title>
+                    <mediaobject>
+                        <imageobject>
+                            <imagedata fileref="img/diagram.jpg" scale="55" />
+                        </imageobject>
+                        <textobject>
+                            <phrase>Samu működése.</phrase>
+                        </textobject>
+                    </mediaobject>
+                </figure>                   
+            </section>
         </chapter>        
     </part>      
     <bibliography>
